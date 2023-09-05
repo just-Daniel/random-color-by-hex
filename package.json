@@ -1,0 +1,22 @@
+{
+  "name": "random-color-by-hex",
+  "version": "1.0.4",
+  "description": "This package generate random hex color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Good Boy",
+  "license": "ISC",
+  "keywords": [
+    "color",
+    "hex",
+    "random",
+    "generate"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/just-Daniel/random-color-by-hex"
+  },
+  "homepage": "https://github.com/just-Daniel/random-color-by-hex#readme"
+}
